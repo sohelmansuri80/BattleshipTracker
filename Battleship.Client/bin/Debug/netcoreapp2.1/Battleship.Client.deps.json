@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Battleship.Client/1.0.0": {
+        "dependencies": {
+          "Battleship.Services": "1.0.0"
+        },
+        "runtime": {
+          "Battleship.Client.dll": {}
+        }
+      },
+      "Battleship.Core/1.0.0": {
+        "runtime": {
+          "Battleship.Core.dll": {}
+        }
+      },
+      "Battleship.Services/1.0.0": {
+        "dependencies": {
+          "Battleship.Core": "1.0.0"
+        },
+        "runtime": {
+          "Battleship.Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Battleship.Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Battleship.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Battleship.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

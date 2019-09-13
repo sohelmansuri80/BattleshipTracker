@@ -1,0 +1,12 @@
+C:\Users\sohelm\Documents\Visual Studio 2017\Projects\BattleshipTracker\Battleship.Services\obj\Debug\netcoreapp2.1\Battleship.Services.csprojAssemblyReference.cache
+C:\Users\sohelm\Documents\Visual Studio 2017\Projects\BattleshipTracker\Battleship.Services\obj\Debug\netcoreapp2.1\Battleship.Services.csproj.CoreCompileInputs.cache
+C:\Users\sohelm\Documents\Visual Studio 2017\Projects\BattleshipTracker\Battleship.Services\obj\Debug\netcoreapp2.1\Battleship.Services.AssemblyInfoInputs.cache
+C:\Users\sohelm\Documents\Visual Studio 2017\Projects\BattleshipTracker\Battleship.Services\obj\Debug\netcoreapp2.1\Battleship.Services.AssemblyInfo.cs
+C:\Users\sohelm\Documents\Visual Studio 2017\Projects\BattleshipTracker\Battleship.Services\bin\Debug\netcoreapp2.1\Battleship.Services.deps.json
+C:\Users\sohelm\Documents\Visual Studio 2017\Projects\BattleshipTracker\Battleship.Services\bin\Debug\netcoreapp2.1\Battleship.Services.dll
+C:\Users\sohelm\Documents\Visual Studio 2017\Projects\BattleshipTracker\Battleship.Services\bin\Debug\netcoreapp2.1\Battleship.Services.pdb
+C:\Users\sohelm\Documents\Visual Studio 2017\Projects\BattleshipTracker\Battleship.Services\bin\Debug\netcoreapp2.1\Battleship.Core.dll
+C:\Users\sohelm\Documents\Visual Studio 2017\Projects\BattleshipTracker\Battleship.Services\bin\Debug\netcoreapp2.1\Battleship.Core.pdb
+C:\Users\sohelm\Documents\Visual Studio 2017\Projects\BattleshipTracker\Battleship.Services\obj\Debug\netcoreapp2.1\Battleship.Services.csproj.CopyComplete
+C:\Users\sohelm\Documents\Visual Studio 2017\Projects\BattleshipTracker\Battleship.Services\obj\Debug\netcoreapp2.1\Battleship.Services.dll
+C:\Users\sohelm\Documents\Visual Studio 2017\Projects\BattleshipTracker\Battleship.Services\obj\Debug\netcoreapp2.1\Battleship.Services.pdb
