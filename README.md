@@ -1,6 +1,6 @@
 # BattleshipTracker
 This solution is built using:
-**Visual Studio 2017 15.9.15 
+**Visual Studio 2017 15.9.15** 
 **.NET Core 2.1 SDK**
 
 ## Projects
